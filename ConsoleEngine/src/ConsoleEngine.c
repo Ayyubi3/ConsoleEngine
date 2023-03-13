@@ -25,6 +25,13 @@ void ENGINE_PutChar(int x, int y, char* buf, char symb)
 
 
 
+void ENGINE_FILL(char* buf, char sym)
+{
+	for (size_t i = 0; i < X*Y; i++)
+	{
+		buf[i] = sym;
+	}
+}
 
 
 

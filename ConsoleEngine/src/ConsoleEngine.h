@@ -14,5 +14,6 @@ void ENGINE_SetCursorPos(int x, int y);
 
 
 void ENGINE_Clear();
+void ENGINE_FILL(char* buf, char sym);
 
 void ENGINE_DrawLine(int x0, int y0, int x1, int y1, char* buf, char sy);
