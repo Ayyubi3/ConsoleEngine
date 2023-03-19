@@ -11,10 +11,11 @@
 
 
 //These are the Inputs
-#define BlockWidth 1
-#define TargetArrayLength 40
-int arr[TargetArrayLength] = { 13, 7, 18, 1, 4, 3, 17, 2, 12, 8, 6, 16, 19, 11, 0, 5, 10, 14, 15, 9, 0, 17, 1, 11, 12, 8, 6, 9, 18, 5, 7, 2, 19, 14, 16, 15, 3, 4, 13, 10 };
-const int TimeInMilliseconds = 0;
+#define BlockWidth 4
+#define TargetArrayLength 4
+int arr[TargetArrayLength] = { 3, 2, 1, 6};
+//int arr[TargetArrayLength] = { 13, 7, 18, 1, 4, 3, 17, 2, 12, 8, 6, 16, 19, 11, 0, 5, 10, 14, 15, 9, 0, 17, 1, 11, 12, 8, 6, 9, 18, 5, 7, 2, 19, 14, 16, 15, 3, 4, 13, 10 };
+const int TimeInMilliseconds = 1000;
 //
 
 
