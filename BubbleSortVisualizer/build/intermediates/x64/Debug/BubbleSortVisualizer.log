@@ -1,0 +1,16 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(502,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(503,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Source.c
+D:\AACodebase\ConsoleEngine\BubbleSortVisualizer\src\Source.c(35,17): warning C4047: 'function': 'char *' differs in levels of indirection from 'char [20][21]'
+D:\AACodebase\ConsoleEngine\BubbleSortVisualizer\src\Source.c(35,14): warning C4024: 'ENGINE_FILL': different types for formal and actual parameter 1
+D:\AACodebase\ConsoleEngine\BubbleSortVisualizer\src\Source.c(37,59): warning C4047: 'function': 'char *' differs in levels of indirection from 'char [20][21]'
+D:\AACodebase\ConsoleEngine\BubbleSortVisualizer\src\Source.c(37,56): warning C4024: 'ENGINE_DrawLine': different types for formal and actual parameter 5
+D:\AACodebase\ConsoleEngine\BubbleSortVisualizer\src\Source.c(38,35): warning C4047: 'function': 'char *' differs in levels of indirection from 'char [20][21]'
+D:\AACodebase\ConsoleEngine\BubbleSortVisualizer\src\Source.c(38,32): warning C4024: 'ENGINE_PutChar': different types for formal and actual parameter 3
+D:\AACodebase\ConsoleEngine\BubbleSortVisualizer\src\Source.c(39,42): warning C4047: 'function': 'char *' differs in levels of indirection from 'char [20][21]'
+D:\AACodebase\ConsoleEngine\BubbleSortVisualizer\src\Source.c(39,39): warning C4024: 'ENGINE_DrawLine': different types for formal and actual parameter 5
+D:\AACodebase\ConsoleEngine\BubbleSortVisualizer\src\Source.c(63,62): warning C4047: 'function': 'char *' differs in levels of indirection from 'char [20][21]'
+D:\AACodebase\ConsoleEngine\BubbleSortVisualizer\src\Source.c(63,59): warning C4024: 'ENGINE_DrawRectFilled': different types for formal and actual parameter 6
+D:\AACodebase\ConsoleEngine\BubbleSortVisualizer\src\Source.c(69,108): warning C4047: 'function': 'char *' differs in levels of indirection from 'char [20][21]'
+D:\AACodebase\ConsoleEngine\BubbleSortVisualizer\src\Source.c(69,105): warning C4024: 'ENGINE_DrawRectFilled': different types for formal and actual parameter 6
+  BubbleSortVisualizer.vcxproj -> D:\AACodebase\ConsoleEngine\BubbleSortVisualizer\build\x64\Debug\BubbleSortVisualizer.exe
