@@ -1,0 +1,2 @@
+/usr/bin/ar qc libConsoleEngine.a CMakeFiles/ConsoleEngine.dir/src/ConsoleEngine.c.o
+/usr/bin/ranlib libConsoleEngine.a

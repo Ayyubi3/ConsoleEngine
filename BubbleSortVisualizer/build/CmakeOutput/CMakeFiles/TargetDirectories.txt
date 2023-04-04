@@ -1,0 +1,3 @@
+/mnt/d/AACodebase/ConsoleEngine/BubbleSortVisualizer/build/CmakeOutput/CMakeFiles/BubbleSortVisualizer.dir
+/mnt/d/AACodebase/ConsoleEngine/BubbleSortVisualizer/build/CmakeOutput/CMakeFiles/edit_cache.dir
+/mnt/d/AACodebase/ConsoleEngine/BubbleSortVisualizer/build/CmakeOutput/CMakeFiles/rebuild_cache.dir

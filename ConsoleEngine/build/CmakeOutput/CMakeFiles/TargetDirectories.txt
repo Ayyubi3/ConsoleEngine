@@ -1,0 +1,3 @@
+/mnt/d/AACodebase/ConsoleEngine/ConsoleEngine/build/CmakeOutput/CMakeFiles/ConsoleEngine.dir
+/mnt/d/AACodebase/ConsoleEngine/ConsoleEngine/build/CmakeOutput/CMakeFiles/edit_cache.dir
+/mnt/d/AACodebase/ConsoleEngine/ConsoleEngine/build/CmakeOutput/CMakeFiles/rebuild_cache.dir

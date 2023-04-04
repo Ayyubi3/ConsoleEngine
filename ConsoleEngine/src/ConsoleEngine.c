@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 #include "ConsoleEngine.h"
-
+//
 //IMPORTANT: Dont forget you assume in to be 4 bytes
 
 static int BUFFERSIZE = 0;
@@ -53,7 +53,7 @@ void ENGINE_DrawRect(int LTx, int LTy, int RBx, int RBy, char symbol, char* buf)
 	{
 		for (int x = LTx; x < RBx + 1; x++)
 		{
-			if (x == LTx || x == RBx || y == LTy || y == RBy)//with this line filled or not
+			if (x == LTx || x == RBx || y == LTy || y == RBy)
 			{
 				ENGINE_PutChar(x, y, buf, symbol);
 
